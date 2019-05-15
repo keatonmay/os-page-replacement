@@ -10,5 +10,7 @@ make
 
 java page_replacement fileName numberOfFrames
 
+Where fileName is the name of a file which contains the reference string and numberOfFrames refers to the number of available frames for the algorithm.
+
 
 Program outputs average number of page faults for each algorithm over the lines in the file.
